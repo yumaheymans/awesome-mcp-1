@@ -154,6 +154,7 @@ Servers that are **free to use**, with no API keys or optional free registration
 - [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 🔑 ☁️ 🟢 - Web search
 - [Google Search](https://github.com/mixelpixx/Google-Search-MCP-Server) 🆓 ☁️ 🟢 - Google search results
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) 🆓 ☁️ 🟢 - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`
+- [CareJobs.Now](https://github.com/yumaheymans/carejobs-mcp) 🆓 ☁️ 🟢 - Search 170,000+ open US healthcare jobs and posted pay by job kind, employer and state. Remote: `https://carejobs.now/api/mcp`
 
 #### 🧠 AI & Productivity
 
